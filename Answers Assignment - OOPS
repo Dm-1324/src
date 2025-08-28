@@ -1,0 +1,23 @@
+1. d) Abstraction
+2. a) extends
+3. b) We can create objects of interface
+4. b) Public
+5. b) They have the same name as the class
+6. b) Parameter list
+7. b) Class cannot be instantiated from outside
+8. c) Recursion
+9. b) Polymorphism
+10. b) It is used to call the parent constructor
+11. 20
+12. 7
+13. Child
+14. 10
+    20
+15. 2
+16. 10
+    20
+17. error because of the final keyword
+18. False
+    True
+19. 10
+20. B show
