@@ -1,0 +1,50 @@
+1. c) Both a and b
+2. b) Method Overriding
+3. b) Polymorphism
+4. b) A class can only extend only one class but implement multiple interfaces
+5. c) Functional Programming
+6. d) All of the above
+7. b) Singleton Pattern
+8. c) Constructors can be abstract
+9. b) super
+10. a) Multiple Inheritance of type
+11. c) Field hiding occurs
+12. b) Instance Method (overridden)
+13. b) Default parent constructor is called
+14. d) All of the above
+15. c) They must have at least one abstract method
+16. a) Cannot be inherited
+17. a) Polymorphism
+18. a) Overloading static methods
+19. b) Method Overloading
+20. a) One copy shared among all objects
+21. c) can refer to parent object
+22. a) Static blocks → Instance blocks → Constructor
+23. c) Overriding Constructor
+24. b) At declaration or static block
+25. d) Both b & c
+26. b) Static Method
+27. a) They can extend multiple interfaces
+28. a) Compile error unless overridden
+29. a) Encapsulation
+30. a) Can access private members of outer class
+31. d) All of the above
+32. b) final
+33. c) Enums can be inherited
+34. c) Encapsulation
+35. a) Composition has strong ownership, aggregation has weak
+36. a) clone()
+37. a) finalize
+38. a) Always override hashCode() too
+39. b) toString()
+40. b) Polymorphism
+41. b) Diamond problem ambiguity
+42. d) All of the above
+43. b) Cannot be instantiated
+44. a) Must implement once only
+45. a) default (no modifier)
+46. d) All of the above
+47. c) Constructor
+48. d) All of the above
+49. a) Upcasting
+
